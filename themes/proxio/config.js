@@ -73,38 +73,38 @@ const CONFIG = {
     PROXIO_CAREERS: [
         { title: '鳳山光遠店成立', bio: '2016', text: '從鳳山的光遠路小店開始，我們以誠信報價與實在技術服務，累積第一批顧客的信任，也打下了瘋速修的根基。' },
         { title: '草衙店取得 Apple原廠授權', bio: '2022', text: '草衙店正式成為 Apple IRP（獨立維修提供者）授權中心，代表我們的技術與流程通過蘋果標準，能提供原廠級維修體驗。' },
-        { title: '五甲店開幕', bio: '2023', text: '拓點鳳山五甲，提升服務範圍與可近性，也開始導入更完整的維修接待流程，提升顧客體驗與效率。' }, { title: '小港店開幕｜旗艦擴張', bio: '2025', text: '小港店成立，主打現場維修、透明報價，正式從專業維修走向品牌經營，打造屬於高雄的本地連鎖維修品牌。' },
+        { title: '進駐五甲｜接待標準化落地', bio: '2023', text: '拓點鳳山五甲，提升服務範圍與可近性，也開始導入更完整的維修接待流程，提升顧客體驗與效率。' }, { title: '小港店開幕｜旗艦擴張', bio: '2025', text: '小港店成立，主打現場維修、透明報價，正式從專業維修走向品牌經營，打造屬於高雄的本地連鎖維修品牌。' },
     ],
 
     // 首页用户测评区块
     PROXIO_TESTIMONIALS_ENABLE: true, // 测评区块开关
-    PROXIO_TESTIMONIALS_TITLE: '用户反馈',
-    PROXIO_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
+    PROXIO_TESTIMONIALS_TITLE: '修得快，也修得好',
+    PROXIO_TESTIMONIALS_TEXT_1: '我們的顧客怎麼說',
     PROXIO_TESTIMONIALS_TEXT_2:
-        '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
+        '瘋速修的透明報價與快速完修，已經成為許多高雄在地人指定的手機急診室，來看看顧客怎麼說',
 
     // 用户测评处的跳转按钮
     PROXIO_TESTIMONIALS_BUTTON_URL: '/about',
-    PROXIO_TESTIMONIALS_BUTTON_TEXT: '联系我',
+    PROXIO_TESTIMONIALS_BUTTON_TEXT: '立即預約',
 
     // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
     PROXIO_TESTIMONIALS_ITEMS: [
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '感谢大佬的方法。之前尝试过Super、Potion等国外的第三方平台，实现效果一般，个性化程度远不如这个方法，已经用起来了！ ',
+                'iPhone突然開不了機，本來以為報廢了，結果他們半小時就修好！而且不用留機，真的很安心 ',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
-                'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+                '/avatars/user1.png',
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '鳳山李小姐',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '在地護理師',
+            PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.instagram.com/crazyquick_fix/'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+                '價格公開透明，沒有亂報價，現場看他們拆機很專業，整體超過預期~',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '鳥松林先生',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '工程師',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
         },
         {
