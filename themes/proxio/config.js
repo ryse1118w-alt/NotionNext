@@ -67,7 +67,7 @@ const CONFIG = {
     PROXIO_CAREER_ENABLE: true, // 区块开关
     PROXIO_CAREER_TITLE: '品牌歷程',
     PROXIO_CAREER_TEXT:
-        '從一間小店出發，成為高雄在地有實力的手機維修連鎖品牌',
+        '從一間小店出發，成為手機維修連鎖品牌',
 
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
@@ -193,11 +193,11 @@ const CONFIG = {
             name: '網站搭建',
             menus: [
                 {
-                    title: '政哲666',
+                    title: '政哲',
                     href: ''
                 },
                 {
-                    title: 'NotionNext',
+                    title: 'JIGGY',
                     href: ''
                 }
             ]
