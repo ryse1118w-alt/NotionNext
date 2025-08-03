@@ -93,9 +93,9 @@ const CONFIG = {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
                 'iPhone突然開不了機，本來以為報廢了，結果他們半小時就修好！而且不用留機，真的很安心 ',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
-                '/avatars/user1.png',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '鳳山李小姐',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '在地護理師',
+                '/avatar.png',
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '簡先生',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '在地鳳山人',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.instagram.com/crazyquick_fix/'
         },
         {
@@ -103,43 +103,43 @@ const CONFIG = {
                 '價格公開透明，沒有亂報價，現場看他們拆機很專業，整體超過預期~',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '鳥松林先生',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '工程師',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '小白',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '資訊工程師',
+            PROXIO_TESTIMONIALS_ITEM_URL: ''
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+                '很少看到維修店這麼乾淨有系統的，服務也不會硬推銷，推薦給需要修手機的朋友 ',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 '/avatar.png',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '阿哲',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '大學生',
+            PROXIO_TESTIMONIALS_ITEM_URL: ''
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '感谢提供这么好的项目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
+                '小港新店很方便，剛好住附近，換電池延長保固真的有夠佛心',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'AI资源分享 Blog',
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '阿齊',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '在地小港人',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
         },
         {
             PROXIO_TESTIMONIALS_ITEM_TEXT:
-                '灰常感谢大佬的博客项目，能将博客和notion结合起来，这一直是我挺期待的博客模式。',
+                '之前在別間修過結果問題沒解決，來這裡一次就搞定，之後都認準瘋速修了。',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 '/avatar.png',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'Anjhon`s Blog 站长',
-            PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'Jen',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '補習班老師',
+            PROXIO_TESTIMONIALS_ITEM_URL: ''
         },
         {
-            PROXIO_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
+            PROXIO_TESTIMONIALS_ITEM_TEXT: '我手機掉進水裡，以為救不回來了，結果店員立刻幫我檢查還現場修好，超感動',
             PROXIO_TESTIMONIALS_ITEM_AVATAR:
                 '/avatar.png',
-            PROXIO_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
-            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: 'LUCEN考验辅导 站长',
+            PROXIO_TESTIMONIALS_ITEM_NICKNAME: '許小姐',
+            PROXIO_TESTIMONIALS_ITEM_DESCRIPTION: '飲料店店員',
             PROXIO_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
         }
     ],
