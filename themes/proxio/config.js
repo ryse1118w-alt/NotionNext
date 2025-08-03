@@ -24,9 +24,9 @@ const CONFIG = {
 
     // 文章区块
     PROXIO_BLOG_ENABLE: true, // 首页博文区块开关
-    PROXIO_BLOG_TITLE: '關於我們',
+    PROXIO_BLOG_TITLE: '高雄在地經營',
     PROXIO_BLOG_COUNT: 4, // 首页博文区块展示前4篇文章
-    PROXIO_BLOG_TEXT_1: '在地經營，不只是方便，更是可靠',
+    PROXIO_BLOG_TEXT_1: '不只是方便，更是可靠',
 
     // 区块默认内容显示文章的summary文本，但也支持用自定义图片或logo德国替换掉占位显示内容
     PROXIO_BLOG_PLACEHOLDER_IMG_URL_1: '', // 填写要替换成的图片，支持图床或直接上传到项目中，示例  /images/feature-1.webp
@@ -39,39 +39,39 @@ const CONFIG = {
 
     // 特性区块
     PROXIO_FEATURE_ENABLE: true, // 特性区块开关
-    PROXIO_FEATURE_TITLE: '为什么选我',
-    PROXIO_FEATURE_TEXT_1: '我能让您的项目焕发光彩',
+    PROXIO_FEATURE_TITLE: '為什麼選擇瘋速修？',
+    PROXIO_FEATURE_TEXT_1: '手機出狀況，你需要一個可靠的團隊。',
     PROXIO_FEATURE_TEXT_2:
-        '丰富的案例经验，专业的技术服务，优质的沟通效率',
+        '豐富的案例經驗，專業的維修技術，優質的溝通效率',
 
     // 特性1
     PROXIO_FEATURE_1_ICON_CLASS: 'fa-solid fa-stopwatch', // fas图标
     PROXIO_FEATURE_1_ICON_IMG_URL: '', // 图片图标选填，默认是fas图标，如果需要图片图标可以填写图片地址，示例/avatar.png
-    PROXIO_FEATURE_1_TITLE_1: '高效工作流程',
-    PROXIO_FEATURE_1_TEXT_1: '精简的设计流程确保快速交付，在紧迫的工期下仍能保证品质与细节不打折扣。',
+    PROXIO_FEATURE_1_TITLE_1: '高效維修流程',
+    PROXIO_FEATURE_1_TEXT_1: '精簡的維修流程讓每一支手機都能快速完修，即使在繁忙時段，也能穩定交付、不留機。',
 
     PROXIO_FEATURE_2_ICON_CLASS: 'fa-solid fa-comments',
     PROXIO_FEATURE_2_ICON_IMG_URL: '', 
-    PROXIO_FEATURE_2_TITLE_1: '协作式流程',
-    PROXIO_FEATURE_2_TEXT_1: '与你紧密合作，融合反馈意见，打造超越预期的设计',
+    PROXIO_FEATURE_2_TITLE_1: '一對一溝通',
+    PROXIO_FEATURE_2_TEXT_1: '現場清楚說明狀況，根據你的需求量身建議，報價透明、溝通零壓力。',
 
     PROXIO_FEATURE_3_ICON_CLASS: 'fa-solid fa-search',
     PROXIO_FEATURE_2_ICON_IMG_URL: '',
-    PROXIO_FEATURE_3_TITLE_1: '细节把控',
-    PROXIO_FEATURE_3_TEXT_1: '精益求精雕琢每个元素，确保成品精致统一，令人过目难忘',
+    PROXIO_FEATURE_3_TITLE_1: '細節修復力',
+    PROXIO_FEATURE_3_TEXT_1: '每顆螺絲、每組排線我們都不馬虎，從拆裝到收尾，細節讓你看得見我們的用心。',
 
-    PROXIO_FEATURE_BUTTON_TEXT: '了解更多', // 按钮文字
-    PROXIO_FEATURE_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 按钮跳转
+    PROXIO_FEATURE_BUTTON_TEXT: '追蹤我們的IG', // 按钮文字
+    PROXIO_FEATURE_BUTTON_URL: 'https://www.instagram.com/crazyquick_fix/', // 按钮跳转
 
     // 首页生涯区块
     PROXIO_CAREER_ENABLE: true, // 区块开关
-    PROXIO_CAREER_TITLE: '生涯',
+    PROXIO_CAREER_TITLE: '品牌歷程',
     PROXIO_CAREER_TEXT:
-        '以下是我的职业生涯',
+        '從一間小店出發，成為高雄在地有實力的手機維修連鎖品牌',
 
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
-        { title: 'Freelance Architect', bio: '2016-2020', text: 'As a freelance architect, I worked on a range of residential and commercial projects, balancing form and function. I collaborated with clients and contractors to transform concepts into reality, ensuring each design was both aesthetically pleasing and structurally sound.' },
+        { title: '鳳山光遠店成立', bio: '2016', text: '從鳳山的光遠路小店開始，我們以誠信報價與實在技術服務，累積第一批顧客的信任，也打下了瘋速修的根基。' },
         { title: 'Product Designer at Spotify', bio: '2020-2022', text: 'At Spotify, I helped shape innovative features for millions of users globally. My focus was on creating seamless music discovery experiences, enhancing user interfaces, and optimizing cross-platform navigation, which led to an improved product flow and increased user satisfaction.' },
         { title: 'Freelance Product Designer', bio: '2022-Now', text: 'Now I design user-centric products that align with client visions. As a freelance product designer, I collaborate with startups and established companies, crafting solutions that elevate user experiences and increase engagement across both digital and physical interfaces.' }
     ],
