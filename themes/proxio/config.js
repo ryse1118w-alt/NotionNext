@@ -205,9 +205,9 @@ const CONFIG = {
         {
             name: '社群',
             menus: [
-                { title: '點擊下方 加入我們', href: '' },
+                { title: '', href: '' },
                 {
-                    title: '瘋速修',
+                    title: '',
                     href: ''
                 },
                 {
@@ -244,7 +244,7 @@ const CONFIG = {
     // 页面底部的行动呼吁模块
     PROXIO_CTA_ENABLE: true,
     PROXIO_CTA_TITLE: '讓我們來幫你的手機恢復健康',
-    PROXIO_CTA_TITLE_2: '高雄地區專業快速維修，立即預約',
+    PROXIO_CTA_TITLE_2: '專業快速維修，立即預約',
     PROXIO_CTA_DESCRIPTION:
         '瘋速修提供透明報價、原廠等級維修、免費檢測服務，不論是螢幕破裂、電池老化、主機板故障，我們都能幫你搞定。',
     PROXIO_CTA_BUTTON: true, // 是否显示按钮
