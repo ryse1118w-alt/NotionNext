@@ -158,19 +158,19 @@ const CONFIG = {
 
     // 关于作者区块
     PROXIO_ABOUT_ENABLE: true, // 关于作者区块区块开关
-    PROXIO_ABOUT_TITLE: '关于作者',
-    PROXIO_ABOUT_TEXT_1: 'I am an Architect Turned Into a Product Designer',
+    PROXIO_ABOUT_TITLE: '關於瘋速修｜Apple授權維修中心',
+    PROXIO_ABOUT_TEXT_1: '我們是高雄在地的手機維修品牌',
     PROXIO_ABOUT_TEXT_2:
-        'With a background in architecture, I now apply my expertise to product design, blending aesthetics, functionality, and innovation. My goal is to create modern, user-focused designs that bring your vision to life.',
-    PROXIO_ABOUT_PHOTO_URL: '/avatar.png',
-    PROXIO_ABOUT_KEY_1: '经验年限',
-    PROXIO_ABOUT_VAL_1: '10年+',
-    PROXIO_ABOUT_KEY_2: '客户',
-    PROXIO_ABOUT_VAL_2: '1000+',
-    PROXIO_ABOUT_KEY_3: '交付项目',
-    PROXIO_ABOUT_VAL_3: '5000+',
-    PROXIO_ABOUT_KEY_4: '累积创作时长（小时）',
-    PROXIO_ABOUT_VAL_4: '10000+',
+        '從鳳山光遠路的小店起家，到擴點五甲與小港，我們秉持「快速、透明、可靠」的原則，致力於提供專業、不留機的維修體驗。草衙店更取得 Apple 原廠 IRP 授權，為顧客帶來原廠等級的服務流程。',
+    PROXIO_ABOUT_PHOTO_URL: '/images/logo.jpg',
+    PROXIO_ABOUT_KEY_1: '成立至今',
+    PROXIO_ABOUT_VAL_1: '10年',
+    PROXIO_ABOUT_KEY_2: '累積顧客',
+    PROXIO_ABOUT_VAL_2: '20000+',
+    PROXIO_ABOUT_KEY_3: '維修案例',
+    PROXIO_ABOUT_VAL_3: '30000+',
+    PROXIO_ABOUT_KEY_4: '門市據點',
+    PROXIO_ABOUT_VAL_4: '4間（鳳山｜五甲｜草衙｜小港）',
 
     PROXIO_ABOUT_BUTTON_URL: '/about',
     PROXIO_ABOUT_BUTTON_TEXT: '关于我',
