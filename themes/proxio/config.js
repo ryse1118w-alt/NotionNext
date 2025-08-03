@@ -162,7 +162,7 @@ const CONFIG = {
     PROXIO_ABOUT_TEXT_1: '我們是高雄在地的手機維修品牌',
     PROXIO_ABOUT_TEXT_2:
         '從鳳山光遠路的小店起家，到擴點五甲與小港，我們秉持「快速、透明、可靠」的原則，致力於提供專業、不留機的維修體驗。草衙店更取得 Apple 原廠 IRP 授權，為顧客帶來原廠等級的服務流程。',
-    PROXIO_ABOUT_PHOTO_URL: '/images/logo.jpg',
+    PROXIO_ABOUT_PHOTO_URL: '',
     PROXIO_ABOUT_KEY_1: '成立至今',
     PROXIO_ABOUT_VAL_1: '10年',
     PROXIO_ABOUT_KEY_2: '累積顧客',
@@ -190,15 +190,15 @@ const CONFIG = {
     // 页脚菜单
     PROXIO_FOOTER_LINKS: [
         {
-            name: '友情链接',
+            name: '網站搭建',
             menus: [
                 {
-                    title: 'Tangly的学习笔记',
-                    href: 'https://blog.tangly1024.com'
+                    title: '政哲666',
+                    href: ''
                 },
                 {
                     title: 'NotionNext',
-                    href: 'https://www.tangly1024.com'
+                    href: ''
                 }
             ]
         },
@@ -207,8 +207,8 @@ const CONFIG = {
             menus: [
                 { title: '點擊下方 加入我們', href: '' },
                 {
-                    title: '關於瘋速修',
-                    href: '/about'
+                    title: '瘋速修',
+                    href: ''
                 },
                 {
                     title: 'LINE官方帳號',
@@ -243,14 +243,14 @@ const CONFIG = {
 
     // 页面底部的行动呼吁模块
     PROXIO_CTA_ENABLE: true,
-    PROXIO_CTA_TITLE: '与我建立联系',
-    PROXIO_CTA_TITLE_2: '让我们立刻启动您的项目',
+    PROXIO_CTA_TITLE: '讓我們來幫你的手機恢復健康',
+    PROXIO_CTA_TITLE_2: '高雄地區專業快速維修，立即預約',
     PROXIO_CTA_DESCRIPTION:
-        '访问NotionNext的操作文档，我们提供了详细的教程，帮助你即刻搭建站点',
+        '瘋速修提供透明報價、原廠等級維修、免費檢測服務，不論是螢幕破裂、電池老化、主機板故障，我們都能幫你搞定。',
     PROXIO_CTA_BUTTON: true, // 是否显示按钮
     PROXIO_CTA_BUTTON_URL:
-        '/about',
-    PROXIO_CTA_BUTTON_TEXT: '联系我',
+        'https://line.me/R/ti/p/@435nnibj?oat_content=url&ts=08030620',
+    PROXIO_CTA_BUTTON_TEXT: '立即預約維修',
 
     PROXIO_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
     PROXIO_POST_REDIRECT_URL: 'https://blog.tangly1024.com', // 重定向域名
