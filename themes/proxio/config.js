@@ -72,8 +72,8 @@ const CONFIG = {
     // 生涯内容卡牌 ，title是标题 ，bio是备注，text是详情
     PROXIO_CAREERS: [
         { title: '鳳山光遠店成立', bio: '2016', text: '從鳳山的光遠路小店開始，我們以誠信報價與實在技術服務，累積第一批顧客的信任，也打下了瘋速修的根基。' },
-        { title: 'Product Designer at Spotify', bio: '2020-2022', text: 'At Spotify, I helped shape innovative features for millions of users globally. My focus was on creating seamless music discovery experiences, enhancing user interfaces, and optimizing cross-platform navigation, which led to an improved product flow and increased user satisfaction.' },
-        { title: 'Freelance Product Designer', bio: '2022-Now', text: 'Now I design user-centric products that align with client visions. As a freelance product designer, I collaborate with startups and established companies, crafting solutions that elevate user experiences and increase engagement across both digital and physical interfaces.' }
+        { title: '草衙店取得 Apple原廠授權', bio: '2022', text: '草衙店正式成為 Apple IRP（獨立維修提供者）授權中心，代表我們的技術與流程通過蘋果標準，能提供原廠級維修體驗。' },
+        { title: '五甲店開幕', bio: '2023', text: '拓點鳳山五甲，提升服務範圍與可近性，也開始導入更完整的維修接待流程，提升顧客體驗與效率。' } { title: '小港店開幕｜旗艦擴張', bio: '2025', text: '小港店成立，主打現場維修、透明報價，正式從專業維修走向品牌經營，打造屬於高雄的本地連鎖維修品牌。' },
     ],
 
     // 首页用户测评区块
