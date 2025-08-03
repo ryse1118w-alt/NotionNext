@@ -8,7 +8,7 @@ const CONFIG = {
     // 英雄区块导航
     PROXIO_HERO_ENABLE: true, // 开启英雄区
     PROXIO_HERO_TITLE_1: '手機壞了？我們幫你搞定', // 英雄区文字
-    PROXIO_HERO_TITLE_2: '現場透明報價｜當日完修｜不留機', // 英雄区文字
+    PROXIO_HERO_TITLE_2: '現場維修｜透明報價｜當日完修｜不留機', // 英雄区文字
     // 英雄区两个按钮，如果TEXT留空则隐藏按钮
     PROXIO_HERO_BUTTON_1_TEXT: 'LINE 立即預約', // 英雄区按钮
     PROXIO_HERO_BUTTON_1_URL:
@@ -24,9 +24,9 @@ const CONFIG = {
 
     // 文章区块
     PROXIO_BLOG_ENABLE: true, // 首页博文区块开关
-    PROXIO_BLOG_TITLE: '作品',
+    PROXIO_BLOG_TITLE: '關於我們',
     PROXIO_BLOG_COUNT: 4, // 首页博文区块展示前4篇文章
-    PROXIO_BLOG_TEXT_1: '我的最新动态',
+    PROXIO_BLOG_TEXT_1: '在地經營，不只是方便，更是可靠',
 
     // 区块默认内容显示文章的summary文本，但也支持用自定义图片或logo德国替换掉占位显示内容
     PROXIO_BLOG_PLACEHOLDER_IMG_URL_1: '', // 填写要替换成的图片，支持图床或直接上传到项目中，示例  /images/feature-1.webp
