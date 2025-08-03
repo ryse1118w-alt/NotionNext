@@ -170,21 +170,21 @@ const CONFIG = {
     PROXIO_ABOUT_KEY_3: '維修案例',
     PROXIO_ABOUT_VAL_3: '30000+',
     PROXIO_ABOUT_KEY_4: '門市據點',
-    PROXIO_ABOUT_VAL_4: '4間（鳳山｜五甲｜草衙｜小港）',
+    PROXIO_ABOUT_VAL_4: '鳳山｜五甲｜草衙｜小港',
 
     PROXIO_ABOUT_BUTTON_URL: '/about',
-    PROXIO_ABOUT_BUTTON_TEXT: '关于我',
+    PROXIO_ABOUT_BUTTON_TEXT: '關於我',
 
     // 横向滚动文字
     PROXIO_BRANDS_ENABLE: true, // 滚动文字
     PROXIO_BRANDS: [
-        'Web Design',
-        'Logo Design',
-        'Mobile App Design',
-        'Product Design'
+        '快速現場維修',
+        '原廠授權 IRP 認證',
+        '主機板晶片級維修',
+        '高雄連鎖營運'
     ],
 
-    PROXIO_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+    PROXIO_FOOTER_SLOGAN: '現場維修｜透明報價｜30分鐘完修｜Apple 原廠 IRP 授權',
 
     // 页脚三列菜单组
     // 页脚菜单
@@ -203,24 +203,24 @@ const CONFIG = {
             ]
         },
         {
-            name: '开发者',
+            name: '社群',
             menus: [
-                { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+                { title: '點擊下方 加入我們', href: '' },
                 {
-                    title: '开发帮助',
-                    href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
+                    title: '關於瘋速修',
+                    href: '/about'
                 },
                 {
-                    title: '功能反馈',
-                    href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
+                    title: 'LINE官方帳號',
+                    href: 'https://line.me/R/ti/p/@435nnibj?oat_content=url&ts=08030620'
                 },
                 {
-                    title: '技术讨论',
-                    href: 'https://github.com/tangly1024/NotionNext/discussions'
+                    title: '臉書',
+                    href: 'https://www.facebook.com/profile.php?id=61570096991502'
                 },
                 {
-                    title: '关于作者',
-                    href: 'https://blog.tangly1024.com/about'
+                    title: 'IG',
+                    href: 'https://www.instagram.com/crazyquick_fix/'
                 }
             ]
         }],
