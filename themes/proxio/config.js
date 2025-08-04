@@ -190,11 +190,11 @@ const CONFIG = {
     // 页脚菜单
     PROXIO_FOOTER_LINKS: [
         {
-            name: '網站搭建',
+            name: '快樂夥伴',
             menus: [
                 {
                     title: '政哲',
-                    href: ''
+                    href: '小白'
                 },
                 {
                     title: 'JIGGY',
