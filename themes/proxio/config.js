@@ -197,7 +197,7 @@ const CONFIG = {
                     href: '小白'
                 },
                 {
-                    title: 'JIGGY',
+                    title: '彩虹小馬',
                     href: ''
                 }
             ]
